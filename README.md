@@ -13,6 +13,7 @@ Für Taschen 1 bis 10 sind die ungeraden Taschen rot und die geraden Taschen sch
 Für Taschen 11 bis 18 sind die ungeraden Taschen schwarz und die geraden Taschen rot;
 Für Taschen 19 bis 28 sind die ungeraden Taschen rot und die geraden Taschen schwarz;
 Für Taschen 29 bis 36 sind die ungeraden Taschen schwarz und die geraden Taschen rot.
+
 Ich habe ein Programm geschrieben, das die Taschennummer liest und anzeigt, ob diese Tasche grün, rot oder schwarz ist. Das Programm sollte eine Fehlermeldung ausgeben, wenn der Benutzer eine Zahl eingibt, die außerhalb des Bereichs von 0 bis 36 liegt.
 
 3. Magic Ball 8
